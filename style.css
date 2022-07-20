@@ -12,6 +12,11 @@ main {
     margin-top: 100px;
 }
 
+
+
+
+
+
 .banner-container {
     width: 1200px;
     height: 450px;
@@ -195,9 +200,9 @@ footer {
 }
 
 .germany {
-
     width: 312px;
     height: 200px;
+    border: 2px solid rgb(238, 229, 229);
 }
 
 .germany img {
@@ -220,4 +225,8 @@ footer {
 
 .blog1 {
     margin-top: 20px;
+}
+
+.foot {
+    margin-top: 100px;
 }
